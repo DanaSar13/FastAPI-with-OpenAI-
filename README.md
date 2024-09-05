@@ -2,6 +2,11 @@
 
 This project is a FastAPI application integrated with OpenAI's API for generating text responses. 
 
+## Live Demo
+
+You can view the live version of the application [here](http://35.180.234.197:8000/docs).
+
+
 ## Setup Instructions
 
 1. **Create .env File:** 
