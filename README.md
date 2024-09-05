@@ -1,6 +1,6 @@
 # FastAPI-OpenAI-Chatbot
 
-This project is a FastAPI application integrated with OpenAI's API for generating text responses. It demonstrates setting up a virtual environment, installing dependencies, and creating a simple API with FastAPI.
+This project is a FastAPI application integrated with OpenAI's API for generating text responses. 
 
 ## Setup Instructions
 
@@ -9,7 +9,7 @@ This project is a FastAPI application integrated with OpenAI's API for generatin
 Create a new file in this directory called `.env` and copy your OpenAI API key into an environment variable like this:
 
 ```sh
-OPENAI_KEY=<<your-api-key>>
+OPENAI_API_KEY=<<your-api-key>>
 ```
 
 The `.env` file will be ignored by Git to ensure you don't check in these two values to source control.
